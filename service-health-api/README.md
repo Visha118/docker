@@ -1,7 +1,7 @@
 # Service Health API
 
 A simple Spring Boot–based REST API that exposes basic service health and status endpoints.  
-This project is designed as a lightweight, container-friendly Java application, suitable for Docker, Kubernetes health checks, and DevOps demos.
+This project is designed as a lightweight, container-friendly Java application, suitable for Docker, Kubernetes health checks.
 
 ---
 
